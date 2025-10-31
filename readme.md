@@ -80,7 +80,7 @@ git clone https://github.com/Anushka0615/dermavisionapp.git
 cd dermavisionapp
 pip install -r requirements.txt
 python app.py
-
+```
 ---
 
 ## Note on Training Code
