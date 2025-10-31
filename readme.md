@@ -109,8 +109,7 @@ python app.py
 ---
 
 ## Authors
-**Anushka Khatua** – M.Tech (Roll No: 24167030)   
-
+**Anushka Khatua** – M.Tech in AI & DS (KIIT University, Bhubaneswar)   
 *Advanced Industry Integrated Program – LTIMindTree & Partner University*
 
 ---
