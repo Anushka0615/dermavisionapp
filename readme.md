@@ -110,7 +110,7 @@ python app.py
 
 ## Authors
 **Anushka Khatua** – M.Tech in AI & DS (KIIT University, Bhubaneswar)   
-*Advanced Industry Integrated Program – LTIMindTree & Partner University*
+*Advanced Industry Integrated Program – LTIMindTree & KIIT University*
 
 ---
 
@@ -119,6 +119,3 @@ This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute this project with proper attribution.
 
 ---
-
-> _“AI doesn’t replace dermatologists — it assists them.”_  
-> **DermavisionApp** bridges technology and healthcare for early, accessible diagnosis.
